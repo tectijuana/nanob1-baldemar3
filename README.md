@@ -1,4 +1,4 @@
-# titulos
-## subtitulos
-
-![](https://ahoramismoeditorial.files.wordpress.com/2019/04/la-rosa-de-guadalupe-3-cover-1-e1555912468736.jpg?quality=65&strip=all)
+# Conceptos logica de programacion 
+## Definiciones 
+## de lenguaje
+Es un lenguaje formal que proporciona una serie de instrucciones que permiten a un programador escribir secuencias de órdenes y algoritmos a modo de controlar el comportamiento físico y lógico de una computadora con el objetivo de que produzca diversas clases de datos.
